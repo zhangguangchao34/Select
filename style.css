@@ -1,0 +1,7 @@
+select{display: none;}
+.select_box01 { float:left; width: 248px;font-size: 16px;color: #999;line-height: 36px;}
+.select_showbox {border: 1px solid #ddd;height: 36px;padding-left: 5px;background: url(icon.png) no-repeat 214px 8px;}
+.select_option {border: 1px solid #ddd;border-top: none;display: none;}
+.select_option li{padding-left: 5px;}
+.select_option li.selected{background-color: #42adff;color: #999;}
+.select_option li.hover{background: #42adff; color: #fff;}
